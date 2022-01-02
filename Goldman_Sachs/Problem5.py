@@ -24,7 +24,7 @@ def getNthUglyNo(n):
      # 2 factors list=[2,4,6, 8,10,12,14,16,18,20]
      # 3 factors list=[3,6, 9, 12,15,18,21,24,27,30]
      # 5 factors list=[5,10,15,20,25,30,35,40,45,50]
-     # Ugly numbers=  [1,2,3,4,5,6,8,12,15,24,..](numbers are multiple of 2,3,5 only)
+     # Ugly numbers=  [1,2,3,4,5,6,8,9,10,12,15,..](numbers are multiple of 2,3,5 only)
 		# code here
         ugly=[0]*n
         
